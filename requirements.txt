@@ -1,0 +1,12 @@
+streamlit
+ultralytics
+opencv-python
+deep-sort-realtime
+numpy
+pandas
+psycopg2-binary
+setuptools==80.0.0
+torch
+torchvision
+Pillow
+python-dotenv
