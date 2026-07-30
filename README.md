@@ -93,13 +93,12 @@ PostgreSQL Traffic Analytics Storage
 - Road safety monitoring
 
 ## Instructions to execute
-cd "C:\AI\AI Traffic Monitoring System\AI-Powered-Traffic-Monitoring-System"
-python -m venv venv
-venv\Scripts\activate
+- cd "C:\AI\AI Traffic Monitoring System\AI-Powered-Traffic-Monitoring-System"
+- python -m venv venv
+- venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run main.py 
 
+<img width="837" height="842" alt="output" src="https://github.com/user-attachments/assets/cab7a746-84d2-4d64-9142-8f4e799cb943" />
 
 
-<img width="1872" height="817" alt="traffic_1" src="https://github.com/user-attachments/assets/73795f24-2d77-403f-9a18-d45f0e500a26" />
-<img width="1807" height="826" alt="traffic_2" src="https://github.com/user-attachments/assets/9c38106d-70a4-4032-9935-19c43a35c4e7" />
