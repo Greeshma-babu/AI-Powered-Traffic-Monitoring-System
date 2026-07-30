@@ -98,3 +98,8 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run main.py 
+
+
+
+<img width="1872" height="817" alt="traffic_1" src="https://github.com/user-attachments/assets/73795f24-2d77-403f-9a18-d45f0e500a26" />
+<img width="1807" height="826" alt="traffic_2" src="https://github.com/user-attachments/assets/9c38106d-70a4-4032-9935-19c43a35c4e7" />
